@@ -6,9 +6,9 @@ global.owner = [
   ['6281511480762', 'Owner AzzBot', true]  
   
 ] 
-global.ownername = [['YahyaGanzz']]
-global.namabot = [['AzzBot-MD']]
-global.ownerinsta = [['@wibu_indo_888816']]
+global.ownername = [['X']]
+global.namabot = [['X-ZC']]
+global.ownerinsta = [['http://tiny.cc/Nathalie']]
 global.mods = [] 
 global.prems = [] 
 
@@ -59,9 +59,9 @@ fs.watchFile(file_exif, () => {
 })
 
 // Sticker WM
-global.packname = sticker_name
-global.author = sticker_author
-global.wm = 'Created by YahyaGanzz'
+global.packname = X-ZC
+global.author = Bct wibu
+global.wm = 'X-ZC'
 
 global.multiplier = 1000 // The higher, The harder levelup
 
